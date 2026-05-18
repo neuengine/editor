@@ -6,5 +6,5 @@
 ## Tasks
 
 - [ ] графическое/визуального програмирование, как в Blueprint в Unreal Engine
-- [ ]
+- [ ] <https://fyne.io/> <https://wails.io/> <https://github.com/ocornut/imgui>
 - [ ]
